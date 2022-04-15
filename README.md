@@ -1,26 +1,32 @@
  <center>
-     <h1>XXX</h1>
+     <h1>简历</h1>
  </center>
 
 ## 个人信息 
 
-* 性 别：男&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;年 龄：25  
-* 手 机：134XXXX3216 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;  邮 箱：XXXXX@XXX.com    
-* 专 业：计算机科学与计算 &emsp;&emsp;&emsp;&emsp;&emsp; 岗 位：研发工程师
+* 董钢铁/男/1996
+* 本科/南华大学大学软件工程专业
+* 工作年限：3年
+* 邮箱：1129180121@qq.com
+* 手机（微信同号）:18229282792
+* 期望职位：前端开发工程师
 
-## 工作及教育经历
+## 技能清单
 
-* 前公司&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&ensp;2019.8~至今&emsp;&emsp;&emsp;&emsp;&emsp; 事业群名字-部门名字       
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2017.9~2019.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-研究生         
-* XXXX大学&emsp;&emsp;&emsp;&emsp;&emsp;2013.9~2017.7&emsp;&emsp;&emsp;&emsp; 计算机科学与技术专业-本科  
+* Web框架：Vue2技术栈(vue2+webpack+vuex)、Vue3.0技术栈(vue3+vite+pinia+ts)、jquery
+* 语言：Typescript、Es5、Es6、HTML5、CSS3、jsx、tsx
+* 前端框架：Bootstrap、element、element plus、移动端vant、vux框架、echartsJs图表框
+  架、antd-of- vue
+* 微前端：qiankun框架、iframe微前端解决方案
+* 前端工具：sass、vscode、stylus、websocket、ActiveMq
+* 版本管理、文档和自动化部署工具：Svn/Git/
+* 单元测试：eslint
+* 英语能力：CET-4级证书，能熟练阅读相关英文文档
+* 其他：使用过wepy+weui开发过小程序、熟悉uniapp开发跨端小程序。熟练使用SuperMap、
+  百度、高德等地图的功能开发、具有函数编程思想、熟悉通用组件的封装思想。
 
-## 专业技能
 
-* 熟练使用 C++，掌握Go，了解 Java、Python、PHP 等编程语言
-* 掌握基础数据结构和算法的基本原理
-* 等等
-
-## 项目经历
+## 工作经历
 
 1. 公司/学校 - XXweb服务器 - 独立开发 - 201508- 201512 
     * 具体功能 
