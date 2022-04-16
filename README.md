@@ -17,8 +17,7 @@
 * 语言：Typescript、Es5、Es6、HTML5、CSS3、jsx、tsx
 * 前端框架：Bootstrap、element、element plus、移动端vant、vux框架、echartsJs图表框
   架、antd-of- vue
-* 微前端：qiankun框架、iframe微前端解决方案
-* 前端工具：sass、vscode、stylus、websocket、ActiveMq
+* 前端工具：sass、vscode、stylus、websocket
 * 版本管理、文档和自动化部署工具：Svn/Git/
 * 单元测试：eslint
 * 英语能力：CET-4级证书，能熟练阅读相关英文文档
@@ -33,7 +32,7 @@
 #### 智慧应急一张图
 
 * 项目前端主要用到的技术栈有Typescript、Vue3.0、Element Plus、sass、超图Api、VideoJs、以
-及vuex、webpack、树摇等技术。我在项目中负责：部分公共UI组件、部分业务通用组件的开
+及vuex、webpack等技术。我在项目中负责：部分公共UI组件、部分业务通用组件的开
 发， 地图业务需求的开发、通讯调度（融合通讯api封装，业务功能研发）、视频巡查（标绘地图
 视频资源检索，以及创建视频预览）、任务调度（任务详情、文件管理、动态刷新、上传组件封
 装、 websocket封装）。
