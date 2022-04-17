@@ -14,7 +14,7 @@
 ## 技能清单
 
 * Web框架：Vue2技术栈(vue2+webpack+vuex)、Vue3.0技术栈(vue3+vite+pinia+ts)、jquery
-* 语言：Typescript、Es5、Es6、HTML5、CSS3、jsx、tsx
+* 语言：Typescript、Es5、Es6、HTML5、CSS3
 * 前端框架：Bootstrap、element、element plus、移动端vant、vux框架、echartsJs图表框
   架、antd-of- vue
 * 前端工具：sass、vscode、stylus、websocket
